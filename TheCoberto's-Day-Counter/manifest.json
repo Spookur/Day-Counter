@@ -1,0 +1,40 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Day Counter",
+		"description": "Adds a simple day counter to your world!",
+		"uuid": "62b37c2d-da1f-473f-b5b8-bb17a7407cf6",
+		"version": [ 1, 0, 3 ],
+		"min_engine_version": [ 1, 20, 40 ]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "7ebdfb15-9de3-46d4-84f7-1c8691b5af04",
+			"version": [1, 0, 0]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "16b646cb-98eb-41b2-a9e0-dd7f088caab4",
+			"entry": "scripts/main.js",
+			"version": [1, 0, 0]
+		}
+	],
+	"capabilities": ["script_eval"],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.7.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.2.0-beta"
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"blockbench_item_wizard": ["1.0.1"]
+		}
+	}
+}
