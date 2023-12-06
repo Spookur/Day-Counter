@@ -1,5 +1,5 @@
 # Day-Counter
-Minecraft Bedrock Day Counter Add-On
+**Minecraft Bedrock Day Counter Add-On**
 
 When new versions of Minecraft come out, this mod will likely need to be updated. To make things easier, update the UUID to eliminate duplicate packs errors.
 
