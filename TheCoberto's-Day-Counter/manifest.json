@@ -4,7 +4,7 @@
 		"name": "Day Counter",
 		"description": "Adds a simple day counter to your world!",
 		"uuid": "62b37c2d-da1f-473f-b5b8-bb17a7407cf6",
-		"version": [ 1, 0, 1 ],
+		"version": [ 1, 0, 0 ],
 		"min_engine_version": [ 1, 20, 50 ]
 	},
 	"modules": [
