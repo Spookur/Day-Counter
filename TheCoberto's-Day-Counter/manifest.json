@@ -3,9 +3,9 @@
 	"header": {
 		"name": "Day Counter",
 		"description": "Adds a simple day counter to your world!",
-		"uuid": "62b37c2d-da1f-473f-b5b8-bb17a7407cf6",
-		"version": [ 1, 0, 0 ],
-		"min_engine_version": [ 1, 20, 50 ]
+		"uuid": "7b342519-b728-4a50-a4d1-09db6d3f5c60",
+		"version": [ 1, 0, 1 ],
+		"min_engine_version": [ 1, 20, 60 ]
 	},
 	"modules": [
 		{
@@ -19,7 +19,7 @@
 	"dependencies": [
 		{
 			"module_name": "@minecraft/server",
-			"version": "1.8.0-beta"
+			"version": "1.9.0-beta"
 		},
 		{
 			"module_name": "@minecraft/server-ui",
