@@ -3,7 +3,7 @@
 	"header": {
 		"name": "Day Counter",
 		"description": "Adds a simple day counter to your world!",
-		"uuid": "7b342519-b728-4a50-a4d1-09db6d3f5c60",
+		"uuid": "cb2f8467-941c-46d1-a7ab-789d6ea652b8",
 		"version": [ 1, 0, 1 ],
 		"min_engine_version": [ 1, 20, 60 ]
 	},
