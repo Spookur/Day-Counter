@@ -1,5 +1,6 @@
 1.0.3
 - Updated to Minecraft v1.20.70
+- Updated server version dependency
 - Added colorful description
 
 1.0.2
