@@ -1,3 +1,7 @@
+1.0.4
+- Updated to Minecraft v1.20.80
+- Updated server module dependency
+
 1.0.3
 - Updated to Minecraft v1.20.70
 - Updated server version dependency

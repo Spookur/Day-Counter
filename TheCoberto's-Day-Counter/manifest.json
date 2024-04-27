@@ -4,8 +4,8 @@
 		"name": "Day Counter",
 		"description": "Adds a simple day counter to your world! \n§b1.20.70§ \n§gEnable: §cBeta APIs",
 		"uuid": "a2034598-0151-4f09-85c5-d077aa75da45",
-		"version": [ 1, 0, 3 ],
-		"min_engine_version": [ 1, 20, 70 ]
+		"version": [ 1, 0, 4 ],
+		"min_engine_version": [ 1, 20, 80 ]
 	},
 	"modules": [
 		{
@@ -19,7 +19,7 @@
 	"dependencies": [
 		{
 			"module_name": "@minecraft/server",
-			"version": "1.10.0-beta"
+			"version": "1.11.0-beta"
 		},
 		{
 			"module_name": "@minecraft/server-ui",
